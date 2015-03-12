@@ -6,14 +6,8 @@ Ingredients:
  - 1 1/2 teaspoons baking soda
  - 1 teaspoon salt
  - 2 eggs
- - 1 cup milk
-<<<<<<< HEAD
- - 1/2 cup baby oil
-||||||| merged common ancestors
- - 1/2 cup vegetable oil
-=======
- - 3/4 cup vegetable oil
->>>>>>> 6ffc9d3bb4b78e558c5bf654eaf10addc518e6cd
+ - 1 cup milkD
+ - 3/4 cup baby oil baby
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
